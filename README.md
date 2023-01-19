@@ -2,7 +2,7 @@
 - REACT 및 REDUX 로 구성한 TODOLIST 만들기
 
 ## 데모사이트
-- 
+- [https://react-todolist-red.vercel.app/]
 
 ## 디자인 구현
 - [디자인 구현][https://www.figma.com/file/BSGEY2DiS9EjQP4c6NN5sd/TodoList?node-id=0%3A1&t=i15ebWFgSFVZNJ5F-1]
