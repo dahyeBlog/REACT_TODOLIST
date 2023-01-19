@@ -60,7 +60,8 @@ src
 
 *** 
 
-### 참고 사이트 : [https://yamoo9.github.io/react-master/lecture/rd-redux.html#redux-%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5]
+### 참고 사이트 
+- [https://yamoo9.github.io/react-master/lecture/rd-redux.html#redux-%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5]
 
 ***
 
