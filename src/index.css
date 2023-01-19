@@ -1,6 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700;800;900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+body{
+  font-family: 'Inter', sans-serif;
+  color:#4D4B4B;
+  height: calc(100vh - 150px);
+  width: 100vw;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.text_title{
+  font-size: 36px;
+  margin-bottom: 27px;
+}

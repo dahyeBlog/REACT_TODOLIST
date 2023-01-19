@@ -1,0 +1,70 @@
+.todolist_items{
+  margin-top: 24px;
+}
+
+.todolist_items ul li {
+  width: 442px;
+  height: 51px;
+  border: 1px solid #D2D1D1;
+  border-radius: 5px;
+  margin-bottom: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  padding-left: 44px;
+
+}
+
+.todolist_items ul li .changeTodoList {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 26px;
+}
+.todolist_items ul li .changeTodoList input {
+  margin-right: 17px;
+  cursor: pointer;
+}
+
+.todolist_items ul li .completedTodo {
+  color: #C84141;
+  text-decoration: line-through;
+  font-style: 16px;
+}
+
+.todolist_items ul li .changeTodoList .iconPencil {
+  margin-right: 17px;
+  color: #F8BB1F;
+  cursor: pointer;
+
+}
+
+.todolist_items ul li .changeTodoList .updated{
+  margin-right: 17px;
+  background-color: #F8BB1F;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.todolist_items ul li .changeTodoList .iconDelete {
+  color: #C84141;
+  cursor: pointer;
+}
+
+
+.delete_btn{
+  margin-top: 14px;
+  width: 354px;
+  height: 38px;
+  background-color:#C84141;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
